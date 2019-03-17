@@ -1,0 +1,7 @@
+C:\Users\mohsen\Desktop\finalsocket\finalsocket\bin\Debug\finalsocket.exe.config
+C:\Users\mohsen\Desktop\finalsocket\finalsocket\bin\Debug\finalsocket.exe
+C:\Users\mohsen\Desktop\finalsocket\finalsocket\bin\Debug\finalsocket.pdb
+C:\Users\mohsen\Desktop\finalsocket\finalsocket\obj\Debug\finalsocket.csprojAssemblyReference.cache
+C:\Users\mohsen\Desktop\finalsocket\finalsocket\obj\Debug\finalsocket.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\Desktop\finalsocket\finalsocket\obj\Debug\finalsocket.exe
+C:\Users\mohsen\Desktop\finalsocket\finalsocket\obj\Debug\finalsocket.pdb
